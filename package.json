@@ -1,0 +1,23 @@
+{
+  "name": "accbal",
+  "version": "1.0.0",
+  "description": "Koodoo Software Engineer Technical Assessment ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macchha/koodoo_accbal.git"
+  },
+  "author": "Madhukar Hebbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macchha/koodoo_accbal/issues"
+  },
+  "homepage": "https://github.com/Macchha/koodoo_accbal#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
